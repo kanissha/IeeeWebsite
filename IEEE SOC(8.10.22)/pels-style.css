@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background: #e1d1d7;
+}
+
+/* .box{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    padding:20px;
+    box-sizing:border-box;
+    background: #fff;
+    border-radius:4px;
+    box-shadow:0 5px 15px rgba(0,0,0,.5);
+    display:flex;
+
+}
+
+
+
+
+.box .content{
+    padding-left: 20px;
+
+}
+
+.box .content h2{
+    margin:0;
+    padding-left:0;
+    color:#e1d1d7;
+
+} */
